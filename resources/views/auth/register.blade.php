@@ -1,4 +1,4 @@
-<x-layout.guest title="Register">
+<x-layouts.guest title="Register">
 
     <div class="card bg-base-100 shadow-2xl rounded-2xl w-full max-w-[480px]">
         <div class="card-body p-[40px]">
@@ -155,4 +155,4 @@
     </script>
     @endpush
 
-</x-layout.guest>
+</x-layouts.guest>

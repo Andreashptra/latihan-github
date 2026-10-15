@@ -28,7 +28,6 @@
 
 <body
     style="min-height:100vh;background:linear-gradient(135deg,#1e2d6b 0%,#2d4499 60%,#1a2d7a 100%);display:flex;align-items:center;justify-content:center;padding:24px;">
-
     {{ $slot }}
     @stack('scripts')
 </body>
